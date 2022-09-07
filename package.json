@@ -2,7 +2,10 @@
   "name": "pjn-npm",
   "version": "1.0.0",
   "description": "Belajar PJN-NPM",
-  "main": "index.js",
+  "exports":{
+    "." : "./index.js",
+    "./write" : "./write.js"
+  },
   "type": "module",
   "scripts": {
     "run": "node index.js",
