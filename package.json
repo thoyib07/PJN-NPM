@@ -7,6 +7,9 @@
     "./write" : "./write.js"
   },
   "type": "module",
+  "dependencies": {
+    "lodash": "4.17.21"
+  },
   "scripts": {
     "run": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1",
