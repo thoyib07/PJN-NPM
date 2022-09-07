@@ -1,0 +1,12 @@
+{
+  "name": "belajar-npm-library",
+  "version": "1.0.0",
+  "description": "belajar npm library",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thoyib Hidayat",
+  "license": "ISC"
+}
